@@ -2,8 +2,7 @@
 
 ![Alt text](img.png "pic")
 
-#How to install?
-##(for Linux)
+##How to install? (for Linux)
 
 
 1) clone repository on both of them\
