@@ -1,7 +1,10 @@
+#Two player Game
+
+![Alt text](img.png "pic")
+
 #How to install?
 ##(for Linux)
 
-This is a game for 2 computers.
 
 1) clone repository on both of them\
 `git clone https://github.com/maljunaplanedo/tpgame`
